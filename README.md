@@ -2,7 +2,7 @@
 catalog of all what I feel like useful articles
 
 ## Articles
-- JavaScript
+- [JavaScript](./Javascript.md)
 - General Coding
 - SelfHelp
 
