@@ -3,7 +3,7 @@ catalog of all what I feel like useful articles
 
 ## Articles
 - [JavaScript](./Javascript.md)
-- General Coding (./coding.md)
+- [General Coding](./coding.md)
 - SelfHelp
 
 ## Books
